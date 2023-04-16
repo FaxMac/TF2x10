@@ -1270,7 +1270,7 @@
 	{
 		"mod ammo per shot" "3" //30 Ammo Per Shot (15)
 		"add onhit addammo" "100" //Add a maximum of 100 ammo on hit (75)
-		"damage bonus vs sentry target"	"2"	//100% Dmg Bonus Vs Sentry Target
+		"damage bonus bullet vs sentry target "	"2"	//100% Dmg Bonus Vs Sentry Target
 	}
 	"528" //Short Circuit
 	{
